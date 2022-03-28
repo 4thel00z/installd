@@ -23,7 +23,7 @@ Thank me later
 
 ```shell
 
-go install github.com/4thel00z/installd@latest
+go install github.com/4thel00z/installd/...@latest
 
 ```
 
