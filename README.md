@@ -25,6 +25,8 @@ Thank me later
 
 go install github.com/4thel00z/installd@latest
 
-```## License
+```
+
+## License
 
 This project is licensed under the GPL-3 license.
